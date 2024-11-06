@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Luis Carlos Vitoriano Neto, tenho 26 anos e sou natural do Minas Gerais. Concluí o ensino médio na escola publica, com o curso técnico em informática (Senai). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia.
+Me chamo Luis Carlos Vitoriano Neto, tenho 26 anos e sou natural do Minas Gerais. Concluí o ensino médio na escola publica, com o curso técnico em informática (Senai). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
