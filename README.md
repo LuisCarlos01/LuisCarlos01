@@ -1,24 +1,12 @@
-# 👩🏻‍💻 Luis Carlos
+# 👩🏻‍💻 Luis Carlos V Neto
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedora Backend`**
 
-Me chamo Luis Carlos Vitoriano Neto, tenho 26 anos e sou natural do Minas Gerais. Concluí o ensino médio na escola publica, com o curso técnico em informática (Senai). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
+**Luis Carlos Vitoriano Neto**, tenho 26 anos e sou natural de **Varginha - MG**. Concluí o ensino médio na **Escola Pública Pedro de Alcântara** e, ao longo da minha trajetória, me formei em **Técnico em Informática** e **Técnico em Eletrotécnica** pelo **SENAI**. Atualmente, estou cursando **Automação Industrial** pela **Unicesumar**. 
+
+Tenho uma grande paixão por tecnologia, especialmente na área de **programação**, e estou focado em me aprofundar no **desenvolvimento de sistemas backend**. Acredito no poder da tecnologia para transformar realidades e busco constantemente aprender e evoluir dentro desse campo dinâmico e desafiador.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
