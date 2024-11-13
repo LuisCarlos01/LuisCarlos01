@@ -7,7 +7,7 @@
 Tenho uma grande paixão por tecnologia, especialmente na área de **programação**, e estou focado em me aprofundar no **desenvolvimento de sistemas backend**. Acredito no poder da tecnologia para transformar realidades e busco constantemente aprender e evoluir dentro desse campo dinâmico e desafiador.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/LuisCarlos01">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
