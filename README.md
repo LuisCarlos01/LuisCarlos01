@@ -4,7 +4,7 @@
 
 **Luis Carlos Vitoriano Neto**, tenho 26 anos e sou natural de **Varginha - MG**. Concluí o ensino médio na **Escola Pública Pedro de Alcântara** e, ao longo da minha trajetória, me formei em **Técnico em Informática** e **Técnico em Eletrotécnica** pelo **SENAI**. Atualmente, estou cursando **Automação Industrial** pela **Unicesumar**. 
 
-Tenho uma grande paixão por tecnologia, especialmente na área de **programação**, e estou focado em me aprofundar no **desenvolvimento de sistemas backend**. Acredito no poder da tecnologia para transformar realidades e busco constantemente aprender e evoluir dentro desse campo dinâmico e desafiador.
+Tenho uma grande paixão por tecnologia, especialmente na área de **programação**, e estou focado em me aprofundar no **desenvolvimento de sistemas Backend**.Porem estou atuando no Frontend! Acredito no poder da tecnologia para transformar realidades e busco constantemente aprender e evoluir dentro desse campo dinâmico e desafiador.
 
 <p align="left">
     <a href="https://github.com/LuisCarlos01">
