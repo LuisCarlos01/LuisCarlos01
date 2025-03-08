@@ -14,7 +14,7 @@ Tenho uma grande paixão por tecnologia, especialmente na área de **programaç�
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/LuisCarlos01?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
