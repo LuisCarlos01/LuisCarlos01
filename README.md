@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luis Carlos V Neto
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedora Front-end`**
 
 **Luis Carlos Vitoriano Neto**, tenho 26 anos e sou natural de **Varginha - MG**. Concluí o ensino médio na **Escola Pública Pedro de Alcântara** e, ao longo da minha trajetória, me formei em **Técnico em Informática** e **Técnico em Eletrotécnica** pelo **SENAI**. Atualmente, estou cursando **Automação Industrial** pela **Unicesumar**. 
 
