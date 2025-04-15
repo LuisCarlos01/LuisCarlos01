@@ -46,9 +46,9 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 
 ### 📫 Contato
 
-- ✉️ **Email profissional**: `luizcarlosvneto@gmail.com`
+- ✉️ **Email profissional**: `luizcarlosvitorianoneto@gmail.com`
 - 💼 **LinkedIn**: [linkedin.com/in/luizcarlosvneto](https://linkedin.com/in/luizcarlosvneto)
-- 🌐 **Portfólio**: [Em breve](#)
+- 🌐 **Portfólio**: (https://luiscarlosvnetodev.netlify.app)
 
 ---
 
