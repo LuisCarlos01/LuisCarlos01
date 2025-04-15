@@ -35,6 +35,13 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 
 ---
 
+### 📌 Projetos em Destaque
+
+- 🎫 [iPass Chatbot WhatsApp](https://github.com/LuisCarlos01/ipass-chatbot) – Automação de atendimento para venda e dúvidas sobre ingressos usando WhatsApp-web.js.
+- 🌱 [Calculadora de CO₂ STL Festival](https://github.com/LuisCarlos01/stl-carbon-calc) – Projeto para compensação de carbono baseado em dados reais de transporte dos participantes.
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
