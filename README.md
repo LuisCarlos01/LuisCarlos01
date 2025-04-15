@@ -1,132 +1,37 @@
-# 👩🏻‍💻 Luis Carlos V Neto
+## 👨‍💻 Luis Carlos V Neto
 
-**`Desenvolvedor Front-end`**
+### Desenvolvedor Front-end
 
-**Luis Carlos Vitoriano Neto**, tenho 26 anos e sou natural de **Varginha - MG**. Concluí o ensino médio na **Escola Pública Pedro de Alcântara** e, ao longo da minha trajetória, me formei em **Técnico em Informática** e **Técnico em Eletrotécnica** pelo **SENAI**. Atualmente, estou cursando **Automação Industrial** pela **Unicesumar**. 
+**Luis Carlos Vitoriano Neto**, tenho 26 anos e sou natural de **Varginha - MG**. Concluí o ensino médio na **Escola Pública Pedro de Alcântara** e, ao longo da minha trajetória, me formei em **Técnico em Informática** e **Técnico em Eletrotécnica** pelo SENAI. Atualmente, estou cursando **Automação Industrial** pela Unicesumar.
 
-Tenho uma grande paixão por tecnologia, especialmente na área de **programação**, e estou focado em me aprofundar no **desenvolvimento de sistemas Front-end**.Porem estou atuando no Frontend! Acredito no poder da tecnologia para transformar realidades e busco constantemente aprender e evoluir dentro desse campo dinâmico e desafiador.
-
-<p align="left">
-    <a href="https://github.com/LuisCarlos01">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LuisCarlos01?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LuisCarlos01?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LuisCarlos01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Tenho uma grande paixão por tecnologia, especialmente na área de **programação**, e estou focado em me aprofundar no **desenvolvimento de sistemas Front-end**. Estou atuando como desenvolvedor Frontend e acredito no poder da tecnologia para transformar realidades. Busco constantemente aprender e evoluir dentro desse campo dinâmico e desafiador.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌟 Estrelas ![GitHub stars](https://img.shields.io/github/stars/LuisCarlos01?style=social) &nbsp;|&nbsp; 👥 Seguidores ![GitHub followers](https://img.shields.io/github/followers/LuisCarlos01?style=social)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🧠 Linguagens e Tecnologias
 
-### 📊 Estatísticas
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlos01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 Estatísticas
 
-</p>
+| Estatísticas do GitHub de Luis Carlos | Tecnologias mais usadas |
+|----------------------------------------|--------------------------|
+| ![Luis Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=github_dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=github_dark) |
+
+---
+
+> 💡 Em constante aprendizado, busco sempre entregar o meu melhor com foco, dedicação e paixão por tecnologia.
