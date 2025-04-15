@@ -1,37 +1,62 @@
-## 👨‍💻 Luis Carlos V Neto
-
-### Desenvolvedor Front-end
-
-**Luis Carlos Vitoriano Neto**, tenho 26 anos e sou natural de **Varginha - MG**. Concluí o ensino médio na **Escola Pública Pedro de Alcântara** e, ao longo da minha trajetória, me formei em **Técnico em Informática** e **Técnico em Eletrotécnica** pelo SENAI. Atualmente, estou cursando **Automação Industrial** pela Unicesumar.
-
-Tenho uma grande paixão por tecnologia, especialmente na área de **programação**, e estou focado em me aprofundar no **desenvolvimento de sistemas Front-end**. Estou atuando como desenvolvedor Frontend e acredito no poder da tecnologia para transformar realidades. Busco constantemente aprender e evoluir dentro desse campo dinâmico e desafiador.
+<h1 align="center">Luis Carlos Vitoriano Neto 👨‍💻</h1>
+<h3 align="center">Desenvolvedor Front-end apaixonado por tecnologia e inovação.</h3>
 
 ---
 
-### 🌟 Estrelas ![GitHub stars](https://img.shields.io/github/stars/LuisCarlos01?style=social) &nbsp;|&nbsp; 👥 Seguidores ![GitHub followers](https://img.shields.io/github/followers/LuisCarlos01?style=social)
+### 🧾 Sobre mim
+
+Sou **Luis Carlos Vitoriano Neto**, 26 anos, natural de **Varginha - MG**. Concluí meus estudos na **Escola Pública Pedro de Alcântara** e me formei como **Técnico em Informática** e **Técnico em Eletrotécnica** pelo SENAI. Atualmente curso **Automação Industrial** pela Unicesumar e atuo como **Desenvolvedor Front-end Júnior** na empresa **iPass**.
+
+Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento de interfaces modernas, performáticas e acessíveis. Busco sempre unir **design funcional + código limpo** para entregar a melhor experiência possível.
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+### 💼 Tecnologias que domino
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+#### 🌐 Front-end
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+#### 🛠 Ferramentas e Versionamento
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+#### 🧠 Em aprendizado
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=tokyonight&custom_title=Tecnologias"/>
 </div>
 
 ---
 
-## 📊 Estatísticas
+### 📫 Contato
 
-| Estatísticas do GitHub de Luis Carlos | Tecnologias mais usadas |
-|----------------------------------------|--------------------------|
-| ![Luis Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=github_dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=github_dark) |
+- ✉️ **Email profissional**: `luizcarlosvneto@gmail.com`
+- 💼 **LinkedIn**: [linkedin.com/in/luizcarlosvneto](https://linkedin.com/in/luizcarlosvneto)
+- 🌐 **Portfólio**: [Em breve](#)
 
 ---
 
-> 💡 Em constante aprendizado, busco sempre entregar o meu melhor com foco, dedicação e paixão por tecnologia.
+### ✨ Frase que me define
+
+> **"Busco sempre aprender mais para entregar o meu melhor. Evoluir é um compromisso diário com meu futuro."**
+
+---
+
+⭐ Se gostou do meu trabalho, me dê uma estrela nos repositórios!  
+👀 Vamos crescer juntos? Me siga por aqui no GitHub!
