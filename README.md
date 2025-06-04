@@ -44,8 +44,8 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=tokyonight&custom_title=Tecnologias&count_private=true&v=1"/>
+  <img height="160em" src="https://github-readme-stats-nfqe-21334jn34-luiscarlos01s-projects.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-nfqe-21334jn34-luiscarlos01s-projects.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=tokyonight&count_private=true&v=1"/>
 </div>
 
 ---
