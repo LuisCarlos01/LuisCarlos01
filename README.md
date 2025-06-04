@@ -44,8 +44,8 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-nfqe-21334jn34-luiscarlos01s-projects.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-nfqe-21334jn34-luiscarlos01s-projects.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=tokyonight&count_private=true&v=1"/>
+  <img height="160em" src="https://github-readme-stats-nfqe.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats-nfqe.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=tokyonight&count_private=true&v=1" alt="Top Languages"/>
 </div>
 
 ---
@@ -54,7 +54,7 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 
 - ✉️ **Email profissional**: `luizcarlosvitorianoneto@gmail.com`
 - 💼 **LinkedIn**: [linkedin.com/in/luizcarlosvneto](https://linkedin.com/in/luizcarlosvneto)
-- 🌐 **Portfólio**: https://luiscarlosvnetodev.netlify.app
+- 🌐 **Portfólio**: [luiscarlosvnetodev.netlify.app](https://luiscarlosvnetodev.netlify.app)
 
 ---
 
