@@ -38,6 +38,8 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 ### 📌 Projeto em Destaque
 
 - 🌱 [Calculadora de CO₂ STL Festival](https://github.com/LuisCarlos01/iPass-E2carbon) – Projeto para compensação de carbono baseado em dados reais de transporte dos participantes.
+- 🥃 [Venda de Copos STL Festivel](https://github.com/LuisCarlos01/iPass-Copos) - Projeto para vendas antecipadas de copos para o STL Festival.
+- ✅ [Validador de CPF para o iPass](https://github.com/LuisCarlos01/iPassvalidador) - Projeto para consulta e verificaçao de ingressos para todos os Eventos regidos pelo iPass.
 
 ---
 
