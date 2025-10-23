@@ -29,8 +29,6 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 
 #### 🧠 Em aprendizado
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Buffet Pierroti Eventos](https://github.com/LuisCarlos01/Buffet) - [Site MVP](https://buffet-tau.vercel.app/) para empresa de buffet e eventos.
 ---
 
 ### 📌 Projeto em Destaque
@@ -38,7 +36,7 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 - 🌱 [Calculadora de CO₂ STL Festival](https://github.com/LuisCarlos01/iPass-E2carbon) – Projeto para compensação de carbono baseado em dados reais de transporte dos participantes.
 - 🥃 [Venda de Copos STL Festivel](https://github.com/LuisCarlos01/iPass-Copos) - Projeto para vendas antecipadas de copos para o STL Festival.
 - ✅ [Validador de CPF para o iPass](https://github.com/LuisCarlos01/iPassvalidador) - Projeto para consulta e verificaçao de ingressos para todos os Eventos regidos pelo iPass.
-
+- 🍽️ [Buffet Pierroti Eventos](https://github.com/LuisCarlos01/Buffet) - [Site MVP](https://buffet-tau.vercel.app/) para empresa de buffet e eventos, desenvolvido com Next.js, TypeScript e TailwindCSS.
 ---
 
 ### 📊 Estatísticas do GitHub
