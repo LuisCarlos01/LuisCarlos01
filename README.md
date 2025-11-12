@@ -5,9 +5,12 @@
 
 ### 🧾 Sobre mim
 
-Sou **Luis Carlos Vitoriano Neto**, 26 anos, natural de **Varginha - MG**. Concluí meus estudos na **Escola Pública Pedro de Alcântara** e me formei como **Técnico em Informática** e **Técnico em Eletrotécnica** pelo SENAI. Atualmente curso **Automação Industrial** pela Unicesumar e atuo como **Desenvolvedor Front-end Júnior** na empresa **iPass**.
+Sou **Luis Carlos Vitoriano Neto**, 26 anos, natural de **Varginha - MG**.  
+Concluí meus estudos na **Escola Pública Pedro de Alcântara** e me formei como **Técnico em Informática** e **Técnico em Eletrotécnica** pelo **SENAI**.  
+Atualmente curso **Automação Industrial** pela **Unicesumar** e atuo como **Desenvolvedor Front-end Júnior** na empresa **iPass**.
 
-Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento de interfaces modernas, performáticas e acessíveis. Busco sempre unir **design funcional + código limpo** para entregar a melhor experiência possível.
+Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento de interfaces modernas, performáticas e acessíveis.  
+Busco sempre unir **design funcional + código limpo** para entregar a melhor experiência possível.
 
 ---
 
@@ -22,6 +25,9 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+#### 📱 Mobile
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
 #### 🛠 Ferramentas e Versionamento
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -29,14 +35,17 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
 
 #### 🧠 Em aprendizado
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+
 ---
 
-### 📌 Projeto em Destaque
+### 📌 Projetos em Destaque
 
-- 🌱 [Calculadora de CO₂ STL Festival](https://github.com/LuisCarlos01/iPass-E2carbon) – Projeto para compensação de carbono baseado em dados reais de transporte dos participantes.
-- 🥃 [Venda de Copos STL Festivel](https://github.com/LuisCarlos01/iPass-Copos) - Projeto para vendas antecipadas de copos para o STL Festival.
-- ✅ [Validador de CPF para o iPass](https://github.com/LuisCarlos01/iPassvalidador) - Projeto para consulta e verificaçao de ingressos para todos os Eventos regidos pelo iPass.
-- 🍽️ [Buffet Pierroti Eventos](https://github.com/LuisCarlos01/Buffet) - [Site MVP](https://buffet-tau.vercel.app/) para empresa de buffet e eventos, desenvolvido com Next.js, TypeScript e TailwindCSS.
+- 🌱 [Calculadora de CO₂ STL Festival](https://github.com/LuisCarlos01/iPass-E2carbon) – Projeto para compensação de carbono baseado em dados reais de transporte dos participantes.  
+- 🥃 [Venda de Copos STL Festival](https://github.com/LuisCarlos01/iPass-Copos) – Projeto para vendas antecipadas de copos para o STL Festival.  
+- ✅ [Validador de CPF para o iPass](https://github.com/LuisCarlos01/iPassvalidador) – Sistema de consulta e verificação de ingressos para eventos regidos pelo iPass.  
+- 🍽️ [Buffet Pierroti Eventos](https://github.com/LuisCarlos01/Buffet) – [Site MVP](https://buffet-tau.vercel.app/) para empresa de buffet e eventos, desenvolvido com **Next.js**, **TypeScript** e **TailwindCSS**.
+
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -45,7 +54,6 @@ Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento
   <img height="160em" src="https://github-readme-stats-nfqe.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
   <img height="160em" src="https://github-readme-stats-nfqe.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&theme=tokyonight&count_private=true&v=1" alt="Top Languages"/>
 </div>
-
 
 ---
 
