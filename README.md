@@ -1,54 +1,10 @@
 <div align="center">
   <h1>
-    <span class="letter" style="animation-delay: 0s">L</span>
-    <span class="letter" style="animation-delay: 0.1s">u</span>
-    <span class="letter" style="animation-delay: 0.2s">i</span>
-    <span class="letter" style="animation-delay: 0.3s">s</span>
-    <span class="letter" style="animation-delay: 0.4s">&nbsp;</span>
-    <span class="letter" style="animation-delay: 0.5s">C</span>
-    <span class="letter" style="animation-delay: 0.6s">a</span>
-    <span class="letter" style="animation-delay: 0.7s">r</span>
-    <span class="letter" style="animation-delay: 0.8s">l</span>
-    <span class="letter" style="animation-delay: 0.9s">o</span>
-    <span class="letter" style="animation-delay: 1.0s">s</span>
-    <span class="letter" style="animation-delay: 1.1s">&nbsp;</span>
-    <span class="letter" style="animation-delay: 1.2s">V</span>
-    <span class="letter" style="animation-delay: 1.3s">i</span>
-    <span class="letter" style="animation-delay: 1.4s">t</span>
-    <span class="letter" style="animation-delay: 1.5s">o</span>
-    <span class="letter" style="animation-delay: 1.6s">r</span>
-    <span class="letter" style="animation-delay: 1.7s">i</span>
-    <span class="letter" style="animation-delay: 1.8s">a</span>
-    <span class="letter" style="animation-delay: 1.9s">n</span>
-    <span class="letter" style="animation-delay: 2.0s">o</span>
-    <span class="letter" style="animation-delay: 2.1s">&nbsp;</span>
-    <span class="letter" style="animation-delay: 2.2s">N</span>
-    <span class="letter" style="animation-delay: 2.3s">e</span>
-    <span class="letter" style="animation-delay: 2.4s">t</span>
-    <span class="letter" style="animation-delay: 2.5s">o</span>
-    <span class="letter" style="animation-delay: 2.6s">&nbsp;</span>
-    <span class="letter" style="animation-delay: 2.7s">👨‍💻</span>
+    <a href="https://github.com/LuisCarlos01">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Luis+Carlos+Vitoriano+Neto+👨‍💻" alt="Typing SVG" />
+    </a>
   </h1>
 </div>
-
-<style>
-  .letter {
-    display: inline-block;
-    opacity: 0;
-    animation: fadeInUp 0.6s ease forwards;
-  }
-  
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
 
 <h3 align="center">Desenvolvedor Front-end apaixonado por tecnologia e inovação.</h3>
 
