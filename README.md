@@ -1,8 +1,6 @@
 <div align="center">
   <h1>
-    <a href="https://github.com/LuisCarlos01">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Luis+Carlos+Vitoriano+Neto+👨‍💻" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luis+Carlos+Vitoriano+Neto+👨‍💻" alt="Typing SVG" />
   </h1>
 </div>
 
