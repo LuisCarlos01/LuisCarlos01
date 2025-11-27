@@ -1,4 +1,55 @@
-<h1 align="center">Luis Carlos Vitoriano Neto 👨‍💻</h1>
+<div align="center">
+  <h1>
+    <span class="letter" style="animation-delay: 0s">L</span>
+    <span class="letter" style="animation-delay: 0.1s">u</span>
+    <span class="letter" style="animation-delay: 0.2s">i</span>
+    <span class="letter" style="animation-delay: 0.3s">s</span>
+    <span class="letter" style="animation-delay: 0.4s">&nbsp;</span>
+    <span class="letter" style="animation-delay: 0.5s">C</span>
+    <span class="letter" style="animation-delay: 0.6s">a</span>
+    <span class="letter" style="animation-delay: 0.7s">r</span>
+    <span class="letter" style="animation-delay: 0.8s">l</span>
+    <span class="letter" style="animation-delay: 0.9s">o</span>
+    <span class="letter" style="animation-delay: 1.0s">s</span>
+    <span class="letter" style="animation-delay: 1.1s">&nbsp;</span>
+    <span class="letter" style="animation-delay: 1.2s">V</span>
+    <span class="letter" style="animation-delay: 1.3s">i</span>
+    <span class="letter" style="animation-delay: 1.4s">t</span>
+    <span class="letter" style="animation-delay: 1.5s">o</span>
+    <span class="letter" style="animation-delay: 1.6s">r</span>
+    <span class="letter" style="animation-delay: 1.7s">i</span>
+    <span class="letter" style="animation-delay: 1.8s">a</span>
+    <span class="letter" style="animation-delay: 1.9s">n</span>
+    <span class="letter" style="animation-delay: 2.0s">o</span>
+    <span class="letter" style="animation-delay: 2.1s">&nbsp;</span>
+    <span class="letter" style="animation-delay: 2.2s">N</span>
+    <span class="letter" style="animation-delay: 2.3s">e</span>
+    <span class="letter" style="animation-delay: 2.4s">t</span>
+    <span class="letter" style="animation-delay: 2.5s">o</span>
+    <span class="letter" style="animation-delay: 2.6s">&nbsp;</span>
+    <span class="letter" style="animation-delay: 2.7s">👨‍💻</span>
+  </h1>
+</div>
+
+<style>
+  .letter {
+    display: inline-block;
+    opacity: 0;
+    animation: fadeInUp 0.6s ease forwards;
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
+
 <h3 align="center">Desenvolvedor Front-end apaixonado por tecnologia e inovação.</h3>
 
 ---
@@ -7,7 +58,7 @@
 
 Sou **Luis Carlos Vitoriano Neto**, 26 anos, natural de **Varginha - MG**.  
 Concluí meus estudos na **Escola Pública Pedro de Alcântara** e me formei como **Técnico em Informática** e **Técnico em Eletrotécnica** pelo **SENAI**.  
-Atualmente curso **Engenharia de Software** pela **Unicesumar** e atuo como **Desenvolvedor Front-end Júnior** na empresa **iPass**.
+Atualmente curso **Engenharia de Software** e atuo como **Desenvolvedor Front-end Júnior** na empresa **iPass**.
 
 Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento de interfaces modernas, performáticas e acessíveis.  
 Busco sempre unir **design funcional + código limpo** para entregar a melhor experiência possível.
@@ -61,7 +112,7 @@ Busco sempre unir **design funcional + código limpo** para entregar a melhor ex
 
 - ✉️ **Email profissional**: `luizcarlosvitorianoneto@gmail.com`
 - 💼 **LinkedIn**: [linkedin.com/in/luizcarlosvneto](https://linkedin.com/in/luizcarlosvneto)
-- 🌐 **Portfólio**: [luiscarlosvnetodev.netlify.app](https://luiscarlosvnetodev.netlify.app)
+- 🌐 **Portfólio**: [luiscarlosvnetodev.vercel.app](https://portfolio01-jade.vercel.app/)
 
 ---
 
