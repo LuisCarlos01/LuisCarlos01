@@ -14,7 +14,7 @@
 
 Sou **Luis Carlos Vitoriano Neto**, 26 anos, natural de **Varginha - MG**.  
 Concluí meus estudos na **Escola Pública Pedro de Alcântara** e me formei como **Técnico em Informática** e **Técnico em Eletrotécnica** pelo **SENAI**.  
-Atualmente curso **Engenharia de Software** e atuo como **Desenvolvedor Front-end Júnior** na empresa **iPass**.
+Atualmente curso **Engenharia de Software** e atuo como **Desenvolvedor Front-end** na empresa **iPass**.
 
 Tenho grande paixão por tecnologia e programação, com foco no desenvolvimento de interfaces modernas, performáticas e acessíveis.  
 Busco sempre unir **design funcional + código limpo** para entregar a melhor experiência possível.
