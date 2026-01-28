@@ -48,10 +48,7 @@ Busco sempre unir **design funcional + código limpo** para entregar a melhor ex
 
 ### 📌 Projetos em Destaque
 
-- 🌱 [Calculadora de CO₂ STL Festival](https://github.com/LuisCarlos01/iPass-E2carbon) – Projeto para compensação de carbono baseado em dados reais de transporte dos participantes.  
-- 🥃 [Venda de Copos STL Festival](https://github.com/LuisCarlos01/iPass-Copos) – Projeto para vendas antecipadas de copos para o STL Festival.  
-- ✅ [Validador de CPF para o iPass](https://github.com/LuisCarlos01/iPassvalidador) – Sistema de consulta e verificação de ingressos para eventos regidos pelo iPass.  
-- 🍽️ [Buffet Pierroti Eventos](https://github.com/LuisCarlos01/Buffet) – [Site MVP](https://buffet-tau.vercel.app/) para empresa de buffet e eventos, desenvolvido com **Next.js**, **TypeScript** e **TailwindCSS**.
+Em breve...
 
 ---
 
