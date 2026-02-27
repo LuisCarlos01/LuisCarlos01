@@ -28,6 +28,7 @@ Busco sempre unir **design funcional + código limpo** para entregar a melhor ex
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -48,7 +49,10 @@ Busco sempre unir **design funcional + código limpo** para entregar a melhor ex
 
 ### 📌 Projetos em Destaque
 
-Em breve...
+| Projeto | Descrição | Links |
+|---------|-----------|-------|
+| **Sicoob Credivar** | Landing page de pré-venda para o Festival do Café (cooperados Sicoob Credivar) | [🌐 Site](https://credivar.ipass.com.br/) · [📂 Repositório](https://github.com/ipassbr/SicoobCredivar) |
+| **STL Valley** | Landing page institucional | [🌐 Site](https://stlvalley.com.br/) · [📂 Repositório](https://github.com/Scoder-Tech/ipass-stl-valley-lp) |
 
 ---
 
