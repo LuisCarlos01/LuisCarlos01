@@ -42,7 +42,7 @@ Busco sempre unir **design funcional + código limpo** para entregar a melhor ex
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 #### 🧠 Em aprendizado
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
