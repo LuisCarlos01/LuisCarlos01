@@ -59,7 +59,7 @@ Busco sempre unir **design funcional + código limpo** para entregar a melhor ex
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-nfqe.vercel.app/api?username=LuisCarlos01&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats-nfqe.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&exclude_repo=Cursor-IDE,webpage-stl-festival-10-years&theme=tokyonight&count_private=true&v=3" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats-nfqe.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&exclude_repo=Cursor-IDE,webpage-stl-festival-10-years,Base,dev-couple&theme=tokyonight&count_private=true&v=4" alt="Top Languages"/>
 </div>
 
 ---
