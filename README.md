@@ -57,7 +57,7 @@ O que me motiva é entregar uma boa experiência sem abrir mão de um código li
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-nfqe.vercel.app/api?username=LuisCarlos01&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LuisCarlos01&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-nfqe.vercel.app/api/top-langs/?username=LuisCarlos01&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true&v=5" alt="Top Languages"/>
 </div>
 
