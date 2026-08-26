@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">Engenharia de Software (Graduando) · Front-end (React & TS) · Back-end (Java & Spring Boot)</h3>
+<h3 align="center">Engenharia de Software (Graduando) · Front-end (React & TS) · Back-end (Java & Spring Boot) · Banco de Dados (PostgreSQL)</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisCarlos01&label=Visualizações&color=4FACFE&style=flat" alt="Profile views" />
@@ -18,7 +18,7 @@ Me chamo Luis Carlos, tenho 26 anos e nasci em Varginha, no interior de Minas Ge
 
 Comecei cedo na área: me formei como Técnico em Informática e em Eletrotécnica pelo SENAI. Hoje curso Engenharia de Software, construindo interfaces que precisam ser rápidas, acessíveis e agradáveis de usar.
 
-O que me motiva é entregar uma boa experiência sem abrir mão de um código limpo e fácil de manter. E porque quem gosta de tecnologia nunca para de aprender, agora estou dando meus primeiros passos no back-end com Java e Spring Boot, com o objetivo de me tornar desenvolvedor full-stack.
+O que me motiva é entregar uma boa experiência sem abrir mão de um código limpo e fácil de manter. E porque quem gosta de tecnologia nunca para de aprender, agora estou dando meus primeiros passos no back-end com Java, Spring Boot e PostgreSQL, com o objetivo de me tornar desenvolvedor full-stack.
 
 ---
 
@@ -37,6 +37,9 @@ O que me motiva é entregar uma boa experiência sem abrir mão de um código li
 #### 📱 Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+
+#### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 #### 🛠 Ferramentas e Versionamento
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
