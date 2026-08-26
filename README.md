@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">Front-end · React & TypeScript · Back-end · Java</h3>
+<h3 align="center">Engenharia de Software (Graduando) · Front-end (React & TS) · Back-end (Java)</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisCarlos01&label=Visualizações&color=4FACFE&style=flat" alt="Profile views" />
