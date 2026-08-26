@@ -16,7 +16,7 @@
 
 Me chamo Luis Carlos, tenho 26 anos e nasci em Varginha, no interior de Minas Gerais.
 
-Comecei cedo na área: me formei como Técnico em Informática e em Eletrotécnica pelo SENAI. Hoje curso Engenharia de Software e trabalho como Desenvolvedor Front-end na iPass, construindo interfaces que precisam ser rápidas, acessíveis e agradáveis de usar.
+Comecei cedo na área: me formei como Técnico em Informática e em Eletrotécnica pelo SENAI. Hoje curso Engenharia de Software, construindo interfaces que precisam ser rápidas, acessíveis e agradáveis de usar.
 
 O que me motiva é entregar uma boa experiência sem abrir mão de um código limpo e fácil de manter. E porque quem gosta de tecnologia nunca para de aprender, agora estou dando meus primeiros passos no back-end com Java, com o objetivo de me tornar desenvolvedor full-stack.
 
