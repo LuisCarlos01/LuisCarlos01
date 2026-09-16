@@ -13,10 +13,6 @@
 
 Full-stack developer with 3 years of professional experience building web and mobile products for clients and companies, from the UI to the API and the database.
 
-- **Frontend & Mobile:** React, Next.js, React Native/Expo and TypeScript. Fast, accessible interfaces that are easy to maintain
-- **Backend:** Java & Spring Boot, PostgreSQL and REST APIs documented with OpenAPI
-- **DevOps:** Docker, AWS and CI/CD pipelines with GitHub Actions
-
 Currently pursuing a B.Sc. in Software Engineering. I care about simple, readable code and pragmatic solutions: KISS and YAGNI over premature abstraction.
 
 ---
