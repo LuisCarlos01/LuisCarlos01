@@ -75,8 +75,8 @@ Currently pursuing a B.Sc. in Software Engineering. I care about simple, readabl
 Looking for a developer who cares about clean, maintainable code? Reach out:
 
 <div align="center">
-  <a href="mailto:luizcarlosvitorianoneto@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:luizcarlosvn@icloud.com">
+    <img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=icloud&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/luizcarlosvneto">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
